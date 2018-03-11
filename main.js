@@ -1,5 +1,6 @@
 
-const {app, BrowserWindow, dialog} = require('electron');
+const {app, BrowserWindow, ipcMain} = require('electron');
+const {autoUpdater} = require("electron-updater");
 const url = require('url');
 const path = require('path');
 
@@ -20,7 +21,20 @@ const createWindow = () => {
     win = null;
   });
 };
-app.on('ready', createWindow);
+app.on('ready', () => {
+    createWindow();
+    autoUpdater.checkForUpdates();
+});
+
+autoUpdater.on('update-downloaded', (info) => {
+    win.webContents.send('updateReady')
+});
+
+// when receiving a quitAndInstall signal, quit and install the new version ;)
+ipcMain.on("quitAndInstall", (event, arg) => {
+    autoUpdater.quitAndInstall();
+})
+
 app.on('activate', () => {
   if (win == null) {
     createWindow();

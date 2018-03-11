@@ -1,18 +1,18 @@
 {
   "name": "DiscoHue",
   "productName": "DiscoHue",
-  "author": "Kodhus",
+  "author": "GitHub",
   "version": "1.0.0",
   "description": "Disco Hue Music disco app",
   "main": "main.js",
   "scripts": {
     "start": "electron .",
     "watch": "./node_modules/.bin/webpack-dev-server",
-    "dist": "build"
+    "dist": "build",
+    "build": "build --mac",
+    "ship": "build --mac -p always"
   },
-  "repository": "https://github.com/electron/electron-quick-start",
-  "author": "GitHub",
-  "license": "CC0-1.0",
+  "repository": "https://github.com/kodhusco/sampleapp.git",
   "devDependencies": {
     "babel": "^6.23.0",
     "babel-core": "^6.26.0",
@@ -29,6 +29,7 @@
   },
   "dependencies": {
     "create-react-class": "^15.6.3",
+    "electron-updater": "^2.21.0",
     "extract-text-webpack-plugin": "^3.0.2",
     "install": "^0.10.4",
     "jquery": "^3.3.1",

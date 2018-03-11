@@ -1,0 +1,4 @@
+appId: DiscoHue
+publish:
+    provider: github
+    token: 38f4320f0beb14df4dcf476fbe73123f2aa62e8c
