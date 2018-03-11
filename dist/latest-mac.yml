@@ -1,0 +1,10 @@
+version: 1.0.0
+files:
+  - url: DiscoHue-1.0.0-mac.zip
+    sha512: 2QxfY6b3VSCNfUMVLAJpjd84WbYussjqeC/OSI4tMQMDyZ6wFdtXBAoQszryWujxFPdCJXEnW+o6Jo7EohpPrg==
+  - url: DiscoHue-1.0.0.dmg
+    sha512: +2+OUdDnsNnwxLDCkpgXgcYXCkKsL5/tphgg/ZF0sELm7nb9ShtmCAIrXVF4czgZeAjSKdj7wLMPA07wlNItog==
+    size: 57016498
+path: DiscoHue-1.0.0-mac.zip
+sha512: 2QxfY6b3VSCNfUMVLAJpjd84WbYussjqeC/OSI4tMQMDyZ6wFdtXBAoQszryWujxFPdCJXEnW+o6Jo7EohpPrg==
+releaseDate: '2018-03-06T22:38:28.558Z'
