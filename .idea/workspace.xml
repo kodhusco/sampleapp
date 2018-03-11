@@ -2,11 +2,194 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="83d969f2-03c1-403a-aa5f-a3f5616740c8" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/StrobeButton.js" />
-      <change beforePath="$PROJECT_DIR$/.gitignore" afterPath="$PROJECT_DIR$/.gitignore" />
-      <change beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
-      <change beforePath="$PROJECT_DIR$/main.js" afterPath="$PROJECT_DIR$/main.js" />
-      <change beforePath="$PROJECT_DIR$/package.json" afterPath="$PROJECT_DIR$/package.json" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change beforePath="$PROJECT_DIR$/build/icon.icns" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/build/icon.ico" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/dist/DiscoHue-1.0.0-mac.zip" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/dist/DiscoHue-1.0.0.dmg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/dist/DiscoHue-1.0.0.dmg.blockmap" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/dist/electron-builder.yaml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/dist/github/latest-mac.json" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/dist/latest-mac.yml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/dist/mac/DiscoHue.app/Contents/Frameworks/DiscoHue Helper EH.app/Contents/Info.plist" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/dist/mac/DiscoHue.app/Contents/Frameworks/DiscoHue Helper EH.app/Contents/MacOS/DiscoHue Helper EH" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/dist/mac/DiscoHue.app/Contents/Frameworks/DiscoHue Helper EH.app/Contents/PkgInfo" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/dist/mac/DiscoHue.app/Contents/Frameworks/DiscoHue Helper NP.app/Contents/Info.plist" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/dist/mac/DiscoHue.app/Contents/Frameworks/DiscoHue Helper NP.app/Contents/MacOS/DiscoHue Helper NP" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/dist/mac/DiscoHue.app/Contents/Frameworks/DiscoHue Helper NP.app/Contents/PkgInfo" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/dist/mac/DiscoHue.app/Contents/Frameworks/DiscoHue Helper.app/Contents/Info.plist" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/dist/mac/DiscoHue.app/Contents/Frameworks/DiscoHue Helper.app/Contents/MacOS/DiscoHue Helper" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/dist/mac/DiscoHue.app/Contents/Frameworks/DiscoHue Helper.app/Contents/PkgInfo" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/dist/mac/DiscoHue.app/Contents/Frameworks/Electron Framework.framework/Electron Framework" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/dist/mac/DiscoHue.app/Contents/Frameworks/Electron Framework.framework/Libraries" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/dist/mac/DiscoHue.app/Contents/Frameworks/Electron Framework.framework/Resources" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/dist/mac/DiscoHue.app/Contents/Frameworks/Electron Framework.framework/Versions/A/Electron Framework" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/dist/mac/DiscoHue.app/Contents/Frameworks/Electron Framework.framework/Versions/A/Libraries/libffmpeg.dylib" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/dist/mac/DiscoHue.app/Contents/Frameworks/Electron Framework.framework/Versions/A/Libraries/libnode.dylib" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/dist/mac/DiscoHue.app/Contents/Frameworks/Electron Framework.framework/Versions/A/Resources/Info.plist" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/dist/mac/DiscoHue.app/Contents/Frameworks/Electron Framework.framework/Versions/A/Resources/MainMenu.nib" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/dist/mac/DiscoHue.app/Contents/Frameworks/Electron Framework.framework/Versions/A/Resources/am.lproj/locale.pak" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/dist/mac/DiscoHue.app/Contents/Frameworks/Electron Framework.framework/Versions/A/Resources/ar.lproj/locale.pak" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/dist/mac/DiscoHue.app/Contents/Frameworks/Electron Framework.framework/Versions/A/Resources/bg.lproj/locale.pak" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/dist/mac/DiscoHue.app/Contents/Frameworks/Electron Framework.framework/Versions/A/Resources/bn.lproj/locale.pak" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/dist/mac/DiscoHue.app/Contents/Frameworks/Electron Framework.framework/Versions/A/Resources/ca.lproj/locale.pak" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/dist/mac/DiscoHue.app/Contents/Frameworks/Electron Framework.framework/Versions/A/Resources/content_shell.pak" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/dist/mac/DiscoHue.app/Contents/Frameworks/Electron Framework.framework/Versions/A/Resources/crashpad_handler" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/dist/mac/DiscoHue.app/Contents/Frameworks/Electron Framework.framework/Versions/A/Resources/cs.lproj/locale.pak" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/dist/mac/DiscoHue.app/Contents/Frameworks/Electron Framework.framework/Versions/A/Resources/da.lproj/locale.pak" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/dist/mac/DiscoHue.app/Contents/Frameworks/Electron Framework.framework/Versions/A/Resources/de.lproj/locale.pak" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/dist/mac/DiscoHue.app/Contents/Frameworks/Electron Framework.framework/Versions/A/Resources/el.lproj/locale.pak" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/dist/mac/DiscoHue.app/Contents/Frameworks/Electron Framework.framework/Versions/A/Resources/en.lproj/locale.pak" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/dist/mac/DiscoHue.app/Contents/Frameworks/Electron Framework.framework/Versions/A/Resources/en_GB.lproj/locale.pak" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/dist/mac/DiscoHue.app/Contents/Frameworks/Electron Framework.framework/Versions/A/Resources/es.lproj/locale.pak" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/dist/mac/DiscoHue.app/Contents/Frameworks/Electron Framework.framework/Versions/A/Resources/es_419.lproj/locale.pak" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/dist/mac/DiscoHue.app/Contents/Frameworks/Electron Framework.framework/Versions/A/Resources/et.lproj/locale.pak" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/dist/mac/DiscoHue.app/Contents/Frameworks/Electron Framework.framework/Versions/A/Resources/fa.lproj/locale.pak" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/dist/mac/DiscoHue.app/Contents/Frameworks/Electron Framework.framework/Versions/A/Resources/fi.lproj/locale.pak" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/dist/mac/DiscoHue.app/Contents/Frameworks/Electron Framework.framework/Versions/A/Resources/fil.lproj/locale.pak" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/dist/mac/DiscoHue.app/Contents/Frameworks/Electron Framework.framework/Versions/A/Resources/fr.lproj/locale.pak" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/dist/mac/DiscoHue.app/Contents/Frameworks/Electron Framework.framework/Versions/A/Resources/gu.lproj/locale.pak" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/dist/mac/DiscoHue.app/Contents/Frameworks/Electron Framework.framework/Versions/A/Resources/he.lproj/locale.pak" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/dist/mac/DiscoHue.app/Contents/Frameworks/Electron Framework.framework/Versions/A/Resources/hi.lproj/locale.pak" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/dist/mac/DiscoHue.app/Contents/Frameworks/Electron Framework.framework/Versions/A/Resources/hr.lproj/locale.pak" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/dist/mac/DiscoHue.app/Contents/Frameworks/Electron Framework.framework/Versions/A/Resources/hu.lproj/locale.pak" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/dist/mac/DiscoHue.app/Contents/Frameworks/Electron Framework.framework/Versions/A/Resources/icudtl.dat" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/dist/mac/DiscoHue.app/Contents/Frameworks/Electron Framework.framework/Versions/A/Resources/id.lproj/locale.pak" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/dist/mac/DiscoHue.app/Contents/Frameworks/Electron Framework.framework/Versions/A/Resources/it.lproj/locale.pak" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/dist/mac/DiscoHue.app/Contents/Frameworks/Electron Framework.framework/Versions/A/Resources/ja.lproj/locale.pak" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/dist/mac/DiscoHue.app/Contents/Frameworks/Electron Framework.framework/Versions/A/Resources/kn.lproj/locale.pak" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/dist/mac/DiscoHue.app/Contents/Frameworks/Electron Framework.framework/Versions/A/Resources/ko.lproj/locale.pak" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/dist/mac/DiscoHue.app/Contents/Frameworks/Electron Framework.framework/Versions/A/Resources/lt.lproj/locale.pak" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/dist/mac/DiscoHue.app/Contents/Frameworks/Electron Framework.framework/Versions/A/Resources/lv.lproj/locale.pak" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/dist/mac/DiscoHue.app/Contents/Frameworks/Electron Framework.framework/Versions/A/Resources/ml.lproj/locale.pak" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/dist/mac/DiscoHue.app/Contents/Frameworks/Electron Framework.framework/Versions/A/Resources/mr.lproj/locale.pak" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/dist/mac/DiscoHue.app/Contents/Frameworks/Electron Framework.framework/Versions/A/Resources/ms.lproj/locale.pak" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/dist/mac/DiscoHue.app/Contents/Frameworks/Electron Framework.framework/Versions/A/Resources/natives_blob.bin" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/dist/mac/DiscoHue.app/Contents/Frameworks/Electron Framework.framework/Versions/A/Resources/nb.lproj/locale.pak" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/dist/mac/DiscoHue.app/Contents/Frameworks/Electron Framework.framework/Versions/A/Resources/nl.lproj/locale.pak" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/dist/mac/DiscoHue.app/Contents/Frameworks/Electron Framework.framework/Versions/A/Resources/pdf_viewer_resources.pak" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/dist/mac/DiscoHue.app/Contents/Frameworks/Electron Framework.framework/Versions/A/Resources/pl.lproj/locale.pak" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/dist/mac/DiscoHue.app/Contents/Frameworks/Electron Framework.framework/Versions/A/Resources/pt_BR.lproj/locale.pak" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/dist/mac/DiscoHue.app/Contents/Frameworks/Electron Framework.framework/Versions/A/Resources/pt_PT.lproj/locale.pak" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/dist/mac/DiscoHue.app/Contents/Frameworks/Electron Framework.framework/Versions/A/Resources/ro.lproj/locale.pak" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/dist/mac/DiscoHue.app/Contents/Frameworks/Electron Framework.framework/Versions/A/Resources/ru.lproj/locale.pak" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/dist/mac/DiscoHue.app/Contents/Frameworks/Electron Framework.framework/Versions/A/Resources/sk.lproj/locale.pak" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/dist/mac/DiscoHue.app/Contents/Frameworks/Electron Framework.framework/Versions/A/Resources/sl.lproj/locale.pak" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/dist/mac/DiscoHue.app/Contents/Frameworks/Electron Framework.framework/Versions/A/Resources/snapshot_blob.bin" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/dist/mac/DiscoHue.app/Contents/Frameworks/Electron Framework.framework/Versions/A/Resources/sr.lproj/locale.pak" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/dist/mac/DiscoHue.app/Contents/Frameworks/Electron Framework.framework/Versions/A/Resources/sv.lproj/locale.pak" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/dist/mac/DiscoHue.app/Contents/Frameworks/Electron Framework.framework/Versions/A/Resources/sw.lproj/locale.pak" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/dist/mac/DiscoHue.app/Contents/Frameworks/Electron Framework.framework/Versions/A/Resources/ta.lproj/locale.pak" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/dist/mac/DiscoHue.app/Contents/Frameworks/Electron Framework.framework/Versions/A/Resources/te.lproj/locale.pak" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/dist/mac/DiscoHue.app/Contents/Frameworks/Electron Framework.framework/Versions/A/Resources/th.lproj/locale.pak" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/dist/mac/DiscoHue.app/Contents/Frameworks/Electron Framework.framework/Versions/A/Resources/tr.lproj/locale.pak" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/dist/mac/DiscoHue.app/Contents/Frameworks/Electron Framework.framework/Versions/A/Resources/uk.lproj/locale.pak" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/dist/mac/DiscoHue.app/Contents/Frameworks/Electron Framework.framework/Versions/A/Resources/vi.lproj/locale.pak" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/dist/mac/DiscoHue.app/Contents/Frameworks/Electron Framework.framework/Versions/A/Resources/zh_CN.lproj/locale.pak" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/dist/mac/DiscoHue.app/Contents/Frameworks/Electron Framework.framework/Versions/A/Resources/zh_TW.lproj/locale.pak" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/dist/mac/DiscoHue.app/Contents/Frameworks/Electron Framework.framework/Versions/Current" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/dist/mac/DiscoHue.app/Contents/Frameworks/Mantle.framework/Headers" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/dist/mac/DiscoHue.app/Contents/Frameworks/Mantle.framework/Mantle" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/dist/mac/DiscoHue.app/Contents/Frameworks/Mantle.framework/Modules" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/dist/mac/DiscoHue.app/Contents/Frameworks/Mantle.framework/Resources" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/dist/mac/DiscoHue.app/Contents/Frameworks/Mantle.framework/Versions/A/Headers/MTLJSONAdapter.h" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/dist/mac/DiscoHue.app/Contents/Frameworks/Mantle.framework/Versions/A/Headers/MTLManagedObjectAdapter.h" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/dist/mac/DiscoHue.app/Contents/Frameworks/Mantle.framework/Versions/A/Headers/MTLModel+NSCoding.h" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/dist/mac/DiscoHue.app/Contents/Frameworks/Mantle.framework/Versions/A/Headers/MTLModel.h" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/dist/mac/DiscoHue.app/Contents/Frameworks/Mantle.framework/Versions/A/Headers/MTLValueTransformer.h" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/dist/mac/DiscoHue.app/Contents/Frameworks/Mantle.framework/Versions/A/Headers/Mantle.h" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/dist/mac/DiscoHue.app/Contents/Frameworks/Mantle.framework/Versions/A/Headers/NSArray+MTLManipulationAdditions.h" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/dist/mac/DiscoHue.app/Contents/Frameworks/Mantle.framework/Versions/A/Headers/NSDictionary+MTLManipulationAdditions.h" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/dist/mac/DiscoHue.app/Contents/Frameworks/Mantle.framework/Versions/A/Headers/NSObject+MTLComparisonAdditions.h" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/dist/mac/DiscoHue.app/Contents/Frameworks/Mantle.framework/Versions/A/Headers/NSValueTransformer+MTLInversionAdditions.h" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/dist/mac/DiscoHue.app/Contents/Frameworks/Mantle.framework/Versions/A/Headers/NSValueTransformer+MTLPredefinedTransformerAdditions.h" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/dist/mac/DiscoHue.app/Contents/Frameworks/Mantle.framework/Versions/A/Mantle" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/dist/mac/DiscoHue.app/Contents/Frameworks/Mantle.framework/Versions/A/Modules/module.modulemap" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/dist/mac/DiscoHue.app/Contents/Frameworks/Mantle.framework/Versions/A/Resources/Info.plist" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/dist/mac/DiscoHue.app/Contents/Frameworks/Mantle.framework/Versions/Current" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/dist/mac/DiscoHue.app/Contents/Frameworks/ReactiveCocoa.framework/Headers" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/dist/mac/DiscoHue.app/Contents/Frameworks/ReactiveCocoa.framework/Modules" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/dist/mac/DiscoHue.app/Contents/Frameworks/ReactiveCocoa.framework/ReactiveCocoa" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/dist/mac/DiscoHue.app/Contents/Frameworks/ReactiveCocoa.framework/Resources" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/dist/mac/DiscoHue.app/Contents/Frameworks/ReactiveCocoa.framework/Versions/A/Headers/EXTKeyPathCoding.h" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/dist/mac/DiscoHue.app/Contents/Frameworks/ReactiveCocoa.framework/Versions/A/Headers/EXTScope.h" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/dist/mac/DiscoHue.app/Contents/Frameworks/ReactiveCocoa.framework/Versions/A/Headers/NSArray+RACSequenceAdditions.h" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/dist/mac/DiscoHue.app/Contents/Frameworks/ReactiveCocoa.framework/Versions/A/Headers/NSControl+RACCommandSupport.h" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/dist/mac/DiscoHue.app/Contents/Frameworks/ReactiveCocoa.framework/Versions/A/Headers/NSControl+RACTextSignalSupport.h" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/dist/mac/DiscoHue.app/Contents/Frameworks/ReactiveCocoa.framework/Versions/A/Headers/NSData+RACSupport.h" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/dist/mac/DiscoHue.app/Contents/Frameworks/ReactiveCocoa.framework/Versions/A/Headers/NSDictionary+RACSequenceAdditions.h" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/dist/mac/DiscoHue.app/Contents/Frameworks/ReactiveCocoa.framework/Versions/A/Headers/NSEnumerator+RACSequenceAdditions.h" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/dist/mac/DiscoHue.app/Contents/Frameworks/ReactiveCocoa.framework/Versions/A/Headers/NSFileHandle+RACSupport.h" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/dist/mac/DiscoHue.app/Contents/Frameworks/ReactiveCocoa.framework/Versions/A/Headers/NSIndexSet+RACSequenceAdditions.h" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/dist/mac/DiscoHue.app/Contents/Frameworks/ReactiveCocoa.framework/Versions/A/Headers/NSNotificationCenter+RACSupport.h" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/dist/mac/DiscoHue.app/Contents/Frameworks/ReactiveCocoa.framework/Versions/A/Headers/NSObject+RACAppKitBindings.h" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/dist/mac/DiscoHue.app/Contents/Frameworks/ReactiveCocoa.framework/Versions/A/Headers/NSObject+RACDeallocating.h" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/dist/mac/DiscoHue.app/Contents/Frameworks/ReactiveCocoa.framework/Versions/A/Headers/NSObject+RACLifting.h" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/dist/mac/DiscoHue.app/Contents/Frameworks/ReactiveCocoa.framework/Versions/A/Headers/NSObject+RACPropertySubscribing.h" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/dist/mac/DiscoHue.app/Contents/Frameworks/ReactiveCocoa.framework/Versions/A/Headers/NSObject+RACSelectorSignal.h" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/dist/mac/DiscoHue.app/Contents/Frameworks/ReactiveCocoa.framework/Versions/A/Headers/NSOrderedSet+RACSequenceAdditions.h" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/dist/mac/DiscoHue.app/Contents/Frameworks/ReactiveCocoa.framework/Versions/A/Headers/NSSet+RACSequenceAdditions.h" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/dist/mac/DiscoHue.app/Contents/Frameworks/ReactiveCocoa.framework/Versions/A/Headers/NSString+RACSequenceAdditions.h" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/dist/mac/DiscoHue.app/Contents/Frameworks/ReactiveCocoa.framework/Versions/A/Headers/NSString+RACSupport.h" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/dist/mac/DiscoHue.app/Contents/Frameworks/ReactiveCocoa.framework/Versions/A/Headers/NSText+RACSignalSupport.h" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/dist/mac/DiscoHue.app/Contents/Frameworks/ReactiveCocoa.framework/Versions/A/Headers/NSURLConnection+RACSupport.h" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/dist/mac/DiscoHue.app/Contents/Frameworks/ReactiveCocoa.framework/Versions/A/Headers/NSUserDefaults+RACSupport.h" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/dist/mac/DiscoHue.app/Contents/Frameworks/ReactiveCocoa.framework/Versions/A/Headers/RACBacktrace.h" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/dist/mac/DiscoHue.app/Contents/Frameworks/ReactiveCocoa.framework/Versions/A/Headers/RACBehaviorSubject.h" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/dist/mac/DiscoHue.app/Contents/Frameworks/ReactiveCocoa.framework/Versions/A/Headers/RACChannel.h" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/dist/mac/DiscoHue.app/Contents/Frameworks/ReactiveCocoa.framework/Versions/A/Headers/RACCommand.h" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/dist/mac/DiscoHue.app/Contents/Frameworks/ReactiveCocoa.framework/Versions/A/Headers/RACCompoundDisposable.h" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/dist/mac/DiscoHue.app/Contents/Frameworks/ReactiveCocoa.framework/Versions/A/Headers/RACDisposable.h" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/dist/mac/DiscoHue.app/Contents/Frameworks/ReactiveCocoa.framework/Versions/A/Headers/RACEvent.h" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/dist/mac/DiscoHue.app/Contents/Frameworks/ReactiveCocoa.framework/Versions/A/Headers/RACGroupedSignal.h" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/dist/mac/DiscoHue.app/Contents/Frameworks/ReactiveCocoa.framework/Versions/A/Headers/RACKVOChannel.h" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/dist/mac/DiscoHue.app/Contents/Frameworks/ReactiveCocoa.framework/Versions/A/Headers/RACMulticastConnection.h" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/dist/mac/DiscoHue.app/Contents/Frameworks/ReactiveCocoa.framework/Versions/A/Headers/RACQueueScheduler+Subclass.h" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/dist/mac/DiscoHue.app/Contents/Frameworks/ReactiveCocoa.framework/Versions/A/Headers/RACQueueScheduler.h" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/dist/mac/DiscoHue.app/Contents/Frameworks/ReactiveCocoa.framework/Versions/A/Headers/RACReplaySubject.h" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/dist/mac/DiscoHue.app/Contents/Frameworks/ReactiveCocoa.framework/Versions/A/Headers/RACScheduler+Subclass.h" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/dist/mac/DiscoHue.app/Contents/Frameworks/ReactiveCocoa.framework/Versions/A/Headers/RACScheduler.h" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/dist/mac/DiscoHue.app/Contents/Frameworks/ReactiveCocoa.framework/Versions/A/Headers/RACScopedDisposable.h" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/dist/mac/DiscoHue.app/Contents/Frameworks/ReactiveCocoa.framework/Versions/A/Headers/RACSequence.h" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/dist/mac/DiscoHue.app/Contents/Frameworks/ReactiveCocoa.framework/Versions/A/Headers/RACSerialDisposable.h" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/dist/mac/DiscoHue.app/Contents/Frameworks/ReactiveCocoa.framework/Versions/A/Headers/RACSignal+Operations.h" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/dist/mac/DiscoHue.app/Contents/Frameworks/ReactiveCocoa.framework/Versions/A/Headers/RACSignal.h" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/dist/mac/DiscoHue.app/Contents/Frameworks/ReactiveCocoa.framework/Versions/A/Headers/RACStream.h" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/dist/mac/DiscoHue.app/Contents/Frameworks/ReactiveCocoa.framework/Versions/A/Headers/RACSubject.h" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/dist/mac/DiscoHue.app/Contents/Frameworks/ReactiveCocoa.framework/Versions/A/Headers/RACSubscriber.h" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/dist/mac/DiscoHue.app/Contents/Frameworks/ReactiveCocoa.framework/Versions/A/Headers/RACSubscriptingAssignmentTrampoline.h" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/dist/mac/DiscoHue.app/Contents/Frameworks/ReactiveCocoa.framework/Versions/A/Headers/RACTargetQueueScheduler.h" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/dist/mac/DiscoHue.app/Contents/Frameworks/ReactiveCocoa.framework/Versions/A/Headers/RACTestScheduler.h" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/dist/mac/DiscoHue.app/Contents/Frameworks/ReactiveCocoa.framework/Versions/A/Headers/RACTuple.h" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/dist/mac/DiscoHue.app/Contents/Frameworks/ReactiveCocoa.framework/Versions/A/Headers/RACUnit.h" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/dist/mac/DiscoHue.app/Contents/Frameworks/ReactiveCocoa.framework/Versions/A/Headers/ReactiveCocoa.h" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/dist/mac/DiscoHue.app/Contents/Frameworks/ReactiveCocoa.framework/Versions/A/Headers/metamacros.h" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/dist/mac/DiscoHue.app/Contents/Frameworks/ReactiveCocoa.framework/Versions/A/Modules/module.modulemap" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/dist/mac/DiscoHue.app/Contents/Frameworks/ReactiveCocoa.framework/Versions/A/ReactiveCocoa" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/dist/mac/DiscoHue.app/Contents/Frameworks/ReactiveCocoa.framework/Versions/A/Resources/Info.plist" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/dist/mac/DiscoHue.app/Contents/Frameworks/ReactiveCocoa.framework/Versions/Current" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/dist/mac/DiscoHue.app/Contents/Frameworks/Squirrel.framework/Headers" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/dist/mac/DiscoHue.app/Contents/Frameworks/Squirrel.framework/Modules" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/dist/mac/DiscoHue.app/Contents/Frameworks/Squirrel.framework/Resources" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/dist/mac/DiscoHue.app/Contents/Frameworks/Squirrel.framework/Squirrel" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/dist/mac/DiscoHue.app/Contents/Frameworks/Squirrel.framework/Versions/A/Headers/NSBundle+SQRLVersionExtensions.h" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/dist/mac/DiscoHue.app/Contents/Frameworks/Squirrel.framework/Versions/A/Headers/NSProcessInfo+SQRLVersionExtensions.h" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/dist/mac/DiscoHue.app/Contents/Frameworks/Squirrel.framework/Versions/A/Headers/SQRLDownloadedUpdate.h" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/dist/mac/DiscoHue.app/Contents/Frameworks/Squirrel.framework/Versions/A/Headers/SQRLUpdate.h" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/dist/mac/DiscoHue.app/Contents/Frameworks/Squirrel.framework/Versions/A/Headers/SQRLUpdater.h" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/dist/mac/DiscoHue.app/Contents/Frameworks/Squirrel.framework/Versions/A/Headers/Squirrel.h" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/dist/mac/DiscoHue.app/Contents/Frameworks/Squirrel.framework/Versions/A/Modules/module.modulemap" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/dist/mac/DiscoHue.app/Contents/Frameworks/Squirrel.framework/Versions/A/Resources/Info.plist" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/dist/mac/DiscoHue.app/Contents/Frameworks/Squirrel.framework/Versions/A/Resources/ShipIt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/dist/mac/DiscoHue.app/Contents/Frameworks/Squirrel.framework/Versions/A/Squirrel" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/dist/mac/DiscoHue.app/Contents/Frameworks/Squirrel.framework/Versions/Current" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/dist/mac/DiscoHue.app/Contents/Info.plist" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/dist/mac/DiscoHue.app/Contents/MacOS/DiscoHue" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/dist/mac/DiscoHue.app/Contents/PkgInfo" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/dist/mac/DiscoHue.app/Contents/Resources/DiscoHue.icns" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/dist/mac/DiscoHue.app/Contents/Resources/app-update.yml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/dist/mac/DiscoHue.app/Contents/Resources/app.asar" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/dist/mac/DiscoHue.app/Contents/Resources/electron.asar" afterPath="" />
     </list>
     <ignored path="$PROJECT_DIR$/public/built/" />
     <ignored path="$PROJECT_DIR$/.tmp/" />
@@ -54,7 +237,7 @@
         <entry file="file://$PROJECT_DIR$/ColorPicker.js">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="15">
-              <caret line="1" column="23" lean-forward="true" selection-start-line="1" selection-start-column="23" selection-end-line="1" selection-end-column="23" />
+              <caret line="1" column="23" lean-forward="false" selection-start-line="1" selection-start-column="23" selection-end-line="1" selection-end-column="23" />
               <folding>
                 <element signature="e#0#26#0" expanded="true" />
               </folding>
@@ -109,7 +292,7 @@
         <entry file="file://$PROJECT_DIR$/package.json">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="375">
-              <caret line="25" column="24" lean-forward="true" selection-start-line="25" selection-start-column="24" selection-end-line="25" selection-end-column="24" />
+              <caret line="25" column="24" lean-forward="false" selection-start-line="25" selection-start-column="24" selection-end-line="25" selection-end-column="24" />
               <folding />
             </state>
           </provider>
@@ -119,7 +302,7 @@
         <entry file="file://$PROJECT_DIR$/main.js">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="266">
-              <caret line="19" column="15" lean-forward="true" selection-start-line="19" selection-start-column="15" selection-end-line="19" selection-end-column="15" />
+              <caret line="19" column="15" lean-forward="false" selection-start-line="19" selection-start-column="15" selection-end-line="19" selection-end-column="15" />
               <folding />
             </state>
           </provider>
@@ -129,7 +312,7 @@
         <entry file="file://$PROJECT_DIR$/.gitignore">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="0">
-              <caret line="0" column="13" lean-forward="true" selection-start-line="0" selection-start-column="13" selection-end-line="0" selection-end-column="13" />
+              <caret line="0" column="13" lean-forward="false" selection-start-line="0" selection-start-column="13" selection-end-line="0" selection-end-column="13" />
               <folding />
             </state>
           </provider>
@@ -278,18 +461,17 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1520614584222</updated>
-      <workItem from="1520614587654" duration="23198000" />
+      <workItem from="1520614587654" duration="23373000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="23198000" />
+    <option name="totallyTimeSpent" value="23373000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1420" height="804" extended-state="0" />
-    <editor active="true" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.17369549" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.17369549" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Docker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
@@ -377,7 +559,7 @@
         <state relative-caret-position="106">
           <caret line="17" column="0" lean-forward="true" selection-start-line="17" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
           <folding>
-            <element signature="e#0#26#0" expanded="true" />
+            <element signature="e#0#26#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -385,7 +567,7 @@
     <entry file="file://$PROJECT_DIR$/ColorPicker.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="15">
-          <caret line="1" column="23" lean-forward="true" selection-start-line="1" selection-start-column="23" selection-end-line="1" selection-end-column="23" />
+          <caret line="1" column="23" lean-forward="false" selection-start-line="1" selection-start-column="23" selection-end-line="1" selection-end-column="23" />
           <folding>
             <element signature="e#0#26#0" expanded="true" />
           </folding>
@@ -463,7 +645,7 @@
     <entry file="file://$PROJECT_DIR$/package.json">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="375">
-          <caret line="25" column="24" lean-forward="true" selection-start-line="25" selection-start-column="24" selection-end-line="25" selection-end-column="24" />
+          <caret line="25" column="24" lean-forward="false" selection-start-line="25" selection-start-column="24" selection-end-line="25" selection-end-column="24" />
           <folding />
         </state>
       </provider>
@@ -471,7 +653,7 @@
     <entry file="file://$PROJECT_DIR$/main.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="266">
-          <caret line="19" column="15" lean-forward="true" selection-start-line="19" selection-start-column="15" selection-end-line="19" selection-end-column="15" />
+          <caret line="19" column="15" lean-forward="false" selection-start-line="19" selection-start-column="15" selection-end-line="19" selection-end-column="15" />
           <folding />
         </state>
       </provider>
@@ -479,7 +661,7 @@
     <entry file="file://$PROJECT_DIR$/.gitignore">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
-          <caret line="0" column="13" lean-forward="true" selection-start-line="0" selection-start-column="13" selection-end-line="0" selection-end-column="13" />
+          <caret line="0" column="13" lean-forward="false" selection-start-line="0" selection-start-column="13" selection-end-line="0" selection-end-column="13" />
           <folding />
         </state>
       </provider>
